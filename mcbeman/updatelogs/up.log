@@ -1,0 +1,13 @@
+v2.1
+
+1. Added version check with current version before downloading the file
+
+
+v3.2
+
+1. Improved VAR Declarations
+2. Improved Temp Storage (Storing temp download files in dedicated temp directory)
+3. Improved Path associations
+4. Added backup before updating to avoid failure
+5. Improved version file switch heirarchy 
+
