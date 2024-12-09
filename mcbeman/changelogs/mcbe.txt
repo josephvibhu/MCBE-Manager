@@ -1,0 +1,12 @@
+v9.1
+
+1. First available github version
+2. There is no versions previous to this available on github
+
+v9.2
+
+1. Added own directory to store the server files "/mcbeman/Server/bedrock-server"
+
+v9.3 current
+
+1. Added install script for if the server file does not exist in this case it installs the latest minecraft server software available

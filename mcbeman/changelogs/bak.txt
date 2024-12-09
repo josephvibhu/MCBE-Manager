@@ -1,0 +1,10 @@
+v2.1 current
+
+1. Uses rclone to backup
+2. Uses the default rclone repositories
+3. Backup the world file based on prompt
+4. Backup the world file with timestamp
+
+v2.2 proposed
+
+1. Use own rclone repositories to increase backup speed
